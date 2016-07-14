@@ -7,4 +7,5 @@
     <dimen name="my_margin">15dp</dimen>
     <dimen name="icon">100dp</dimen>
     <dimen name="icon2">120dp</dimen>
+    <dimen name="Image">250dp</dimen>
 </resources>

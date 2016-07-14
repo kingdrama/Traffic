@@ -4,7 +4,7 @@
     <string name="hello_world">Hello world</string>
     <string name="action_settings">Settings</string>
     <string name="test">ทดสอบ</string>
-    <string name= "title">ป้ายจราจรต้องรู้ </string>
+    <string name="title">ป้ายจราจรต้องรู้ </string>
     <string name="about_me">About Me</string>
 
 </resources>
